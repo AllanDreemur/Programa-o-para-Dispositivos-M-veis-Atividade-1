@@ -6,6 +6,7 @@ Programação para Dispositivos Móveis II – Fatec
 ## Integrantes
 
 - Gabriel Camargo Prado.
+- João Victor Estreano.
 
 ## Funcionalidades
 
